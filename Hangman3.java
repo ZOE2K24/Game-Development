@@ -25,7 +25,7 @@ public class Hangman3 {
 
         List<Character> playerGuesses = new ArrayList<>();
         // overthinly
-        // ---------- kjgikugi
+        // ---------- 
 
         while(true) { 
             printWordState(word, playerGuesses);
